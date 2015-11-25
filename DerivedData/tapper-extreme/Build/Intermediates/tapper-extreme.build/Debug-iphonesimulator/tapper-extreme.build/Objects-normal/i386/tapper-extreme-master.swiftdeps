@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "6fc68b308b0b541763f12875910cf688"
+build_time: [501782291, 122953000]
+inputs:
+  "/Users/zafer/Desktop/Swift Language/tapper-extreme/tapper-extreme/ViewController.swift": [501782234, 0]
+  "/Users/zafer/Desktop/Swift Language/tapper-extreme/tapper-extreme/AppDelegate.swift": [501706326, 0]
